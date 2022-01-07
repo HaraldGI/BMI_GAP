@@ -31,7 +31,7 @@ class _InputPageState extends State<InputPage> {
       appBar: AppBar(
         title: Center(
           // For å sentrere AppBar'en.
-          child: Text('BMI CALCULATOR GIMSE'),
+          child: Text('BMI CALCULATOR TEST'),
         ),
       ),
       body: Column(
